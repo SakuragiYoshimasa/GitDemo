@@ -1,2 +1,5 @@
 # GitDemo
+
 ほげほげほげ
+conflict
+
